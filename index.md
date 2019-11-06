@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Lewis Hamilton and Max Verstappen make secret agreement
 
-You can use the [editor on GitHub](https://github.com/boonestephen24/lewis-ham/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The war of words between Lewis Hamilton and Max Verstappen has been brought to an end.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The pair met before the United States Grand Prix at the weekend to air out their differences after clashing in Mexico.
 
-### Markdown
+Hamilton claims he approached his young Red Bull rival to set the record straight.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hamilton called Verstappen a crash “magnet” after the Dutchman hit Valtteri Bottas in Mexico.
 
-```markdown
-Syntax highlighted code block
+But the Brit has since revealed he instigated talks over the weekend.
 
-# Header 1
-## Header 2
-### Header 3
+“I spoke to Max before the race,” Hamilton told Channel 4.
 
-- Bulleted
-- List
+“I was like ‘dude, you are such a great racer man, let’s just squash whatever there is between us, whatever beef, let’s go out there and have a great race’.
 
-1. Numbered
-2. List
+Hamilton called Verstappen a crash “magnet” after the Dutchman hit Valtteri Bottas in Mexico.
 
-**Bold** and _Italic_ and `Code` text
+But the Brit has since revealed he instigated talks over the weekend.
 
-[Link](url) and ![Image](src)
-```
+“I spoke to Max before the race,” Hamilton told Channel 4.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+“I was like ‘dude, you are such a great racer man, let’s just squash whatever there is between us, whatever beef, let’s go out there and have a great race’.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boonestephen24/lewis-ham/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link to read [full article](https://www.express.co.uk/sport/f1-autosport/1200636/Lewis-Hamilton-Max-Verstappen-Mercedes-Ferrari-F1-news)
